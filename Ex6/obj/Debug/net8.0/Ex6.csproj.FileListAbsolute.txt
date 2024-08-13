@@ -1,0 +1,15 @@
+C:\dev\ListaDeExercicios_CSharp\Ex6\bin\Debug\net8.0\Ex6.exe
+C:\dev\ListaDeExercicios_CSharp\Ex6\bin\Debug\net8.0\Ex6.deps.json
+C:\dev\ListaDeExercicios_CSharp\Ex6\bin\Debug\net8.0\Ex6.runtimeconfig.json
+C:\dev\ListaDeExercicios_CSharp\Ex6\bin\Debug\net8.0\Ex6.dll
+C:\dev\ListaDeExercicios_CSharp\Ex6\bin\Debug\net8.0\Ex6.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.AssemblyInfoInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.AssemblyInfo.cs
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.csproj.CoreCompileInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.sourcelink.json
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.dll
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\refint\Ex6.dll
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\Ex6.genruntimeconfig.cache
+C:\dev\ListaDeExercicios_CSharp\Ex6\obj\Debug\net8.0\ref\Ex6.dll
