@@ -1,0 +1,15 @@
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\bin\Debug\net8.0\Ex17.exe
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\bin\Debug\net8.0\Ex17.deps.json
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\bin\Debug\net8.0\Ex17.runtimeconfig.json
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\bin\Debug\net8.0\Ex17.dll
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\bin\Debug\net8.0\Ex17.pdb
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.AssemblyInfoInputs.cache
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.AssemblyInfo.cs
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.csproj.CoreCompileInputs.cache
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.sourcelink.json
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.dll
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\refint\Ex17.dll
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.pdb
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\Ex17.genruntimeconfig.cache
+C:\Users\23dou\Documents\GitHub\ListaDeExercicios_CSharp\Ex17\obj\Debug\net8.0\ref\Ex17.dll
