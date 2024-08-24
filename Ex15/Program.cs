@@ -19,10 +19,10 @@ namespace Ex15
         private static void Inicio()
         {  
             List<float> listadenotas = new List<float>();
+            int aux = 1;
 
             for (var i = 0; i < 4; i++)
             {
-                int aux = 1;
                 string? numeracao = null;
 
                 switch(aux)
@@ -32,17 +32,59 @@ namespace Ex15
                     case 3: numeracao = "Terceira"; break;
                     case 4: numeracao = "Quarta"; break;
                 }
+                aux++;
 
                 Console.Clear();
                 Console.WriteLine("CALCULADOR DE MÉDIAS");
                 Console.WriteLine("--------------------");
                 Console.WriteLine($"{numeracao} nota");
-                listadenotas.Add(int.Parse(Console.ReadLine()));
-
-                aux++;
+                listadenotas.Add(float.Parse(Console.ReadLine()));
             }
 
             float somaTotalMedias = listadenotas.Sum();
+
+            float media = somaTotalMedias / 4;
+
+            switch (media){
+                case >= 7: Aprovado(media); break;
+                default: Recuperacao(media); break;
+            }
+        }
+
+        private static void Aprovado(float media)
+        {
+            Console.Clear();
+
+            Console.WriteLine($"Média: {Math.Round(media,1)}");
+            Console.WriteLine("Aluno Aprovado!");
+
+            Console.WriteLine("\n-------------------------------------");
+            Console.WriteLine("Aperte qualquer tecla para continuar...");
+            Console.ReadKey();
+            Inicio();
+        }
+
+        private static void Recuperacao(float media)
+        {
+            Console.Clear();
+
+            Console.WriteLine($"Média: {Math.Round(media,1)} \nAluno em recuperação!");
+            Console.WriteLine("\n----------------------------------------");
+            Console.WriteLine("Digite a nota da recuperação do aluno:");
+            float notaDaRecuperacao = float.Parse(Console.ReadLine());
+
+            float MediaDaRecuperacao = media + notaDaRecuperacao;
+
+            switch(MediaDaRecuperacao)
+            {
+                case >= 7: Console.Clear(); Console.WriteLine($"Média: {Math.Round(MediaDaRecuperacao,1)}"); Console.WriteLine("Aluno Aprovado!"); break;
+                default: Console.Clear(); Console.WriteLine($"Média: {Math.Round(MediaDaRecuperacao,1)}"); Console.WriteLine("Aluno Reprovado!"); break;
+            }
+
+            Console.WriteLine("\n---------------------------------------");
+            Console.WriteLine("Aperte qualquer tecla para continuar...");
+            Console.ReadKey();
+            Inicio();
         }
     }
 }
