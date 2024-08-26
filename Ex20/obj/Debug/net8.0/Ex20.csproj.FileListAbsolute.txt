@@ -1,0 +1,15 @@
+C:\dev\ListaDeExercicios_CSharp\Ex20\bin\Debug\net8.0\Ex20.exe
+C:\dev\ListaDeExercicios_CSharp\Ex20\bin\Debug\net8.0\Ex20.deps.json
+C:\dev\ListaDeExercicios_CSharp\Ex20\bin\Debug\net8.0\Ex20.runtimeconfig.json
+C:\dev\ListaDeExercicios_CSharp\Ex20\bin\Debug\net8.0\Ex20.dll
+C:\dev\ListaDeExercicios_CSharp\Ex20\bin\Debug\net8.0\Ex20.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.AssemblyInfoInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.AssemblyInfo.cs
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.csproj.CoreCompileInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.sourcelink.json
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.dll
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\refint\Ex20.dll
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\Ex20.genruntimeconfig.cache
+C:\dev\ListaDeExercicios_CSharp\Ex20\obj\Debug\net8.0\ref\Ex20.dll
