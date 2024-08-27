@@ -1,0 +1,15 @@
+C:\dev\ListaDeExercicios_CSharp\Ex21\bin\Debug\net8.0\Ex21.exe
+C:\dev\ListaDeExercicios_CSharp\Ex21\bin\Debug\net8.0\Ex21.deps.json
+C:\dev\ListaDeExercicios_CSharp\Ex21\bin\Debug\net8.0\Ex21.runtimeconfig.json
+C:\dev\ListaDeExercicios_CSharp\Ex21\bin\Debug\net8.0\Ex21.dll
+C:\dev\ListaDeExercicios_CSharp\Ex21\bin\Debug\net8.0\Ex21.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.AssemblyInfoInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.AssemblyInfo.cs
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.csproj.CoreCompileInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.sourcelink.json
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.dll
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\refint\Ex21.dll
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\Ex21.genruntimeconfig.cache
+C:\dev\ListaDeExercicios_CSharp\Ex21\obj\Debug\net8.0\ref\Ex21.dll
