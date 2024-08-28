@@ -1,0 +1,15 @@
+C:\dev\ListaDeExercicios_CSharp\Ex24\bin\Debug\net8.0\Ex24.exe
+C:\dev\ListaDeExercicios_CSharp\Ex24\bin\Debug\net8.0\Ex24.deps.json
+C:\dev\ListaDeExercicios_CSharp\Ex24\bin\Debug\net8.0\Ex24.runtimeconfig.json
+C:\dev\ListaDeExercicios_CSharp\Ex24\bin\Debug\net8.0\Ex24.dll
+C:\dev\ListaDeExercicios_CSharp\Ex24\bin\Debug\net8.0\Ex24.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.AssemblyInfoInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.AssemblyInfo.cs
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.csproj.CoreCompileInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.sourcelink.json
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.dll
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\refint\Ex24.dll
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\Ex24.genruntimeconfig.cache
+C:\dev\ListaDeExercicios_CSharp\Ex24\obj\Debug\net8.0\ref\Ex24.dll
