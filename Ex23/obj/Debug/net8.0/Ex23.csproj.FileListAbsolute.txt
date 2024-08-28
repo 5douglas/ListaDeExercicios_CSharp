@@ -1,0 +1,15 @@
+C:\dev\ListaDeExercicios_CSharp\Ex23\bin\Debug\net8.0\Ex23.exe
+C:\dev\ListaDeExercicios_CSharp\Ex23\bin\Debug\net8.0\Ex23.deps.json
+C:\dev\ListaDeExercicios_CSharp\Ex23\bin\Debug\net8.0\Ex23.runtimeconfig.json
+C:\dev\ListaDeExercicios_CSharp\Ex23\bin\Debug\net8.0\Ex23.dll
+C:\dev\ListaDeExercicios_CSharp\Ex23\bin\Debug\net8.0\Ex23.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.AssemblyInfoInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.AssemblyInfo.cs
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.csproj.CoreCompileInputs.cache
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.sourcelink.json
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.dll
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\refint\Ex23.dll
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.pdb
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\Ex23.genruntimeconfig.cache
+C:\dev\ListaDeExercicios_CSharp\Ex23\obj\Debug\net8.0\ref\Ex23.dll
