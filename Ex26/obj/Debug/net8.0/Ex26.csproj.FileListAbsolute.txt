@@ -1,0 +1,15 @@
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/bin/Debug/net8.0/Ex26
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/bin/Debug/net8.0/Ex26.deps.json
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/bin/Debug/net8.0/Ex26.runtimeconfig.json
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/bin/Debug/net8.0/Ex26.dll
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/bin/Debug/net8.0/Ex26.pdb
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.GeneratedMSBuildEditorConfig.editorconfig
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.AssemblyInfoInputs.cache
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.AssemblyInfo.cs
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.csproj.CoreCompileInputs.cache
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.sourcelink.json
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.dll
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/refint/Ex26.dll
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.pdb
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/Ex26.genruntimeconfig.cache
+/home/yoshi/dev/ListaDeExercicios_CSharp/Ex26/obj/Debug/net8.0/ref/Ex26.dll
